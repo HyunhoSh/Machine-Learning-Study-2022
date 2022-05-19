@@ -9,4 +9,4 @@
 
 ## tem_hum
 1. Using ANN
-2. Dataset - Temperature amd humidity data from Janurary, 2012 to March, 2022 in Seoul
+2. Dataset - Temperature amd humidity data from Janurary, 2012 to March, 2022 in Seoul(https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do)
